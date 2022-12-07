@@ -72,3 +72,6 @@ This data, however, shows the trends in New York City. Des Moines is significant
 One of the suggestions to better understand the market is to perhaps run these same analysis on different cities. Finding out if other cities in IOWA have the bike riding apps and using the data to see the differences between cities. 
 
 If more cities are included in the analysis, an additional visualization could include the hottest areas for bike riding. This could show where people like the ride the most. If the results are similar to each other, a conclusion could be made.
+
+
+[link to dashboard](https://public.tableau.com/app/profile/meri.galstyan/viz/Mod15_challenge/Story1)

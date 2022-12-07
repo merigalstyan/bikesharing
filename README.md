@@ -73,6 +73,6 @@ One of the suggestions to better understand the market is to perhaps run these s
 
 If more cities are included in the analysis, an additional visualization could include the hottest areas for bike riding. This could show where people like the ride the most. If the results are similar to each other, a conclusion could be made.
 
-### Link to the stories:
+### Link to the Story
 
 [link to story](https://public.tableau.com/app/profile/meri.galstyan/viz/Mod15_challenge/Story1)

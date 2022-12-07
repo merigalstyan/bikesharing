@@ -51,6 +51,24 @@ We can assume from the map that:
 
 The difference between customer rides and subscriber rides are significant.
 
+### Bike Utilization and Bike Repair
 
+Another factor that could be important in this analysis is to show bike utilization alongside bikes that are due to repair. Including this visualizations could give a better idea about needing new bikes, having to repair more and these are correlated with extra expenses and costs.
 
+The first viz of bike utilization shows each bike and trip durations associated with it. The longer trips, the bigger the bubble:
 
+<img width="742" alt="Screen Shot 2022-12-07 at 1 14 02 AM" src="https://user-images.githubusercontent.com/111609994/206137644-7d4e15b0-d4ce-4185-b6eb-9da03f9a3beb.png">
+
+This next squares show which bikes may need to be repaired. The greener the graph, the less number of rides were completed. The red squares indicate bikes having more than 100 rides.
+
+<img width="898" alt="Screen Shot 2022-12-07 at 1 14 14 AM" src="https://user-images.githubusercontent.com/111609994/206137903-f786d293-c26b-4d77-adcd-ece19dce6833.png">
+
+## Summary
+
+Overall, this analysis allowed us to observe some important factors about bike sharing rides. We saw the busiest times of riding during the week and during the day as well. These mostly included Thurdays, Fridays and Saturdays early mornings and evenings. Another observation included more male riders than females. More subscribers were riding rather than customers. Within these subscribers, most riders were male. 
+
+This data, however, shows the trends in New York City. Des Moines is significantly different from New York. It's possible that the whole analysis would not be at all correlated to Des Moines. Many different cities can show different trends in bike rides. 
+
+One of the suggestions to better understand the market is to perhaps run these same analysis on different cities. Finding out if other cities in IOWA have the bike riding apps and using the data to see the differences between cities. 
+
+If more cities are included in the analysis, an additional visualization could include the hottest areas for bike riding. This could show where people like the ride the most. If the results are similar to each other, a conclusion could be made.
